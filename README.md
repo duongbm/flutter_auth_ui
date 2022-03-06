@@ -2,5 +2,5 @@
 
 Code by design
 
-### welcome screen
-![](UI/welcome.png =250x250)
+### 1. welcome screen
+![](UI/welcome.png)
